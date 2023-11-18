@@ -3,6 +3,7 @@ import React, {Component} from 'react';
 import MoviesList from '../components/MoviesList';
 import VideoTrailerBox from '../components/VideoTrailerBox';
 
+//VIDEO GOOD
 const movies = [
     { id:1, 
         img: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/The_Angry_Birds_Movie_poster.png/220px-The_Angry_Birds_Movie_poster.png", title: "Angry Birds", author: "Tarantino", 
